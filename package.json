@@ -9,10 +9,16 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@material-ui/core": "^4.12.3",
+    "@material-ui/icons": "^4.11.2",
     "microcms-js-sdk": "^1.2.0",
     "next": "11.1.2",
+    "pathseg": "^1.2.1",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "react-particles-js": "^3.5.3",
+    "react-tsparticles": "^1.36.0",
+    "tsparticles": "^1.36.0"
   },
   "devDependencies": {
     "eslint": "8.0.1",
